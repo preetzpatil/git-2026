@@ -1,2 +1,4 @@
 i'm a fix bug which will be use to fix bug.
 fixed another bug.
+one more bug detected and fixed.
+fouth bug fixed.
